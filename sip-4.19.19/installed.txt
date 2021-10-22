@@ -1,0 +1,6 @@
+/Library/Python/2.7/site-packages/sipconfig.py
+/Library/Python/2.7/site-packages/sipdistutils.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/include/python2.7/sip.h
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/sip
+/Library/Python/2.7/site-packages/sip.pyi
+/Library/Python/2.7/site-packages/sip.so
